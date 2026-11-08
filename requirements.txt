@@ -1,0 +1,9 @@
+opencv-python
+mediapipe
+numpy
+sounddevice
+SpeechRecognition
+pywin32; sys_platform == "win32"
+# Optional offline fallback for speech-to-text:
+# openai-whisper
+# soundfile
